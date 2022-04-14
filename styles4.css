@@ -1,0 +1,67 @@
+body {
+    background-color: gray;
+    color: white;
+    font-size: 20;
+}
+
+.info a {
+    color: red;
+    text-decoration: none;
+    font-size: 20;
+    font-family: cursive;
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+.container {
+    
+    max-width: 750px;
+    margin: auto;
+    padding-top: 1px;
+}
+
+.info p {
+    margin: 0;
+}
+
+.info h1 {
+    padding-top: 1px;
+}
+
+.info {
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+}
+
+.hehe {
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+}
+.hehe a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;  
+    letter-spacing: 2px; 
+}
+
+.hehe a:hover {
+    text-decoration: none; 
+}
+.hehe span:hover {
+    background-color: rgb(9, 255, 0);
+}
+
+.hehe span {
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.hehe1 {
+    background-color: rgb(9, 255, 0);
+}
