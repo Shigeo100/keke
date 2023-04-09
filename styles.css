@@ -1,14 +1,22 @@
 body {
-    font-family:"Poppins", sans-serif;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    min-height:100vh;
-    background:#000;
-    color:white;
-    
+
+    background-color: gray;
+
+    color: white;
+
+    font-size: 20;
 
 }
+    
+    
+    
+    
+    
+
+  
+    
+
+
 
 .info a {
     color: red;
